@@ -1,1 +1,1 @@
-{"exchange":"ine","product":"SCFIS欧线","dates":["2026-04-23","2026-04-24","2026-04-27"],"volume":[251,270,498],"volumeChg":[-28,144,267],"long":[1394,1305,1168],"longChg":[-29,-89,-77],"short":[1612,1512,1325],"shortChg":[-106,-60,-126],"mainContract":["ec2604","ec2604","ec2604"],"contracts":{}}
+{"exchange":"ine","product":"SCFIS欧线","dates":["2026-04-27"],"volume":[498],"volumeChg":[267],"long":[1168],"longChg":[-77],"short":[1325],"shortChg":[-126],"mainContract":["ec2604"],"contracts":{}}
